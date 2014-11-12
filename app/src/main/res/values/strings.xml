@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lost Items Inquiry</string>
+    <string name="question">Does your Lost Item have your name on it?</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="next">NEXT</string>
+    <string name="ask">ASK</string>
+    <string name="yes">YES</string>
+    <string name="ok">OK</string>
+    <string name="no">NO</string>
+    <string name="title_activity_item_list">ItemList</string>
+    <string name="list">List of Items:</string>
+    <string name="item1">Book</string>
+    <string name="item2">Notebook</string>
+    <string name="item3">Wallet</string>
+    <string name="item4">Umbrella</string>
+    <string name="item5">Calculator</string>
+    <string name="item6">Jacket</string>
+    <string name="info">Information</string>
+    <string name="pattern">Pattern:</string>
+    <string name="brand">Brand:</string>
+    <string name="color">Color:</string>
+    <string name="name">Name:</string>
+    <string name="section">Section:</string>
+    <string name="aboutyou">About you:</string>
+    <string name="aboutitem">About the Item:</string>
+    <string name="response">Response</string>
+    <string name="response_yes">We are glad to inform you that the item you are looking for is at the ESC Lost and Found Area. Please drop by to pick it up during your free time. Thank you.</string>
+    <string name="response_no">We regret to inform you that the item you are looking for has not been surrendered to the ESC Lost and Found Area</string>
+    <string name="title_activity_information">Information</string>
+    <string name="title_activity_response">Response</string>
+    <string name="title_activity_response1">Response1</string>
+
+</resources>
